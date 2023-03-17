@@ -1,0 +1,4 @@
+spicetify restore
+spicetify update
+spicetify restore backup apply
+iwr -useb https://raw.githubusercontent.com/Sarayut543/spicetify-themes-Comfy/main/install.Comfy.Sakura.txt | iex
